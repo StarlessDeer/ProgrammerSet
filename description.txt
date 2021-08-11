@@ -1,0 +1,2 @@
+Programmer Set is a gowod mod that adds a brand nuwu summoner armor.
+(this mod is meant for 1.4 but since 1.4 isn't moddable right now i'm making it for 1.3.5)
